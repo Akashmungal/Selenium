@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-02T23:04:06 IST" name="Default suite" finished-at="2022-08-02T23:04:36 IST" duration-ms="29316">
+    <groups>
+    </groups>
+    <test started-at="2022-08-02T23:04:06 IST" name="Default test" finished-at="2022-08-02T23:04:36 IST" duration-ms="29316">
+      <class name="com.bridgelabz.selenium.Action_Class_Methods">
+        <test-method is-config="true" signature="launchrowser()[pri:0, instance:com.bridgelabz.selenium.Action_Class_Methods@2c35e847]" started-at="2022-08-02T23:04:06 IST" name="launchrowser" finished-at="2022-08-02T23:04:12 IST" duration-ms="5737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchrowser -->
+        <test-method signature="gmail_contextClickDemo_mailArchive()[pri:0, instance:com.bridgelabz.selenium.Action_Class_Methods@2c35e847]" started-at="2022-08-02T23:04:12 IST" name="gmail_contextClickDemo_mailArchive" finished-at="2022-08-02T23:04:36 IST" duration-ms="23512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmail_contextClickDemo_mailArchive -->
+      </class> <!-- com.bridgelabz.selenium.Action_Class_Methods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
